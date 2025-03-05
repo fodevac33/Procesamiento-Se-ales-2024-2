@@ -11,7 +11,7 @@ Donde:
 - $\mathbf{x}$ es el vector de la señal original en el dominio del tiempo
 - $\mathbf{W}_N$ es la matriz de transformación de dimensión $N \times N$
 
-La matriz de transformación $$\mathbf{W}_N$$ tiene elementos $W_{jk} = \omega_N^{jk}$, donde $\omega_N = e^{-i2\pi/N}$ es la raíz N-ésima de la unidad. Explícitamente:
+La matriz de transformación $\mathbf{W}_N$ tiene elementos $W_{jk} = \omega_N^{jk}$, donde $\omega_N = e^{-i2\pi/N}$ es la raíz N-ésima de la unidad. Explícitamente:
 
 $$\mathbf{W}_N = 
 \begin{pmatrix}
